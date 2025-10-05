@@ -48,7 +48,7 @@ source clipgenius-env/bin/activate
 pip install -e .
 ```
 
-### Install from Package (Future)
+### Install from Package Through pip
 
 Once published to PyPI, you'll be able to install directly:
 
