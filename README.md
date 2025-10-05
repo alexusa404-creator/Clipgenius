@@ -48,9 +48,9 @@ source clipgenius-env/bin/activate
 pip install -e .
 ```
 
-### Install from Package Through pip
+### Install from Package through pip
 
-Once published to PyPI, you'll be able to install directly:
+you can able to install directly using this command in your terminal:
 
 ```bash
 pip install clipgenius
